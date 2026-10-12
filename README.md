@@ -1,5 +1,7 @@
 # Aula y Comunidad Educativa Aumentada · Edición Comunitaria
 
+> **English summary:** Aula is a community-edition toolkit that helps secondary-school teachers and educational communities use AI to prepare learning activities, adapt explanations, and organize tutorials. It brings together task-specific instructions, agents, workflows, skills, and templates. Teachers review and adapt every draft and retain responsibility for educational decisions; examples and references focus on Spain and may need adaptation elsewhere.
+
 **Un entorno de apoyo para tu día a día docente, con inteligencia artificial.**
 
 Creado por **Jesús García Fernández (JGF)**. Versión `1.3.2-comunitaria.3`.
