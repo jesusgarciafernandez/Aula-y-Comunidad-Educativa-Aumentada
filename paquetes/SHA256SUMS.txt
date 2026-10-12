@@ -1,0 +1,4 @@
+66ea3faac67c0cab231731577a9a91ddf111e83849ac013ae90ff84d7fcae5cc  paquetes/aula-comunidad-educativa-aumentada-1.3.2-comunitaria.3.plugin
+62bd793a1ce121f851c60125860f4da1e75fdf1da56c40a5ea82072250206ba8  paquetes/aula-comunidad-educativa-aumentada-chatgpt-work-1.3.2-comunitaria.3.zip
+ac183d59acda8e3ec9773f1c6eb9cb0e86c5c70d76ff109a64cb05e94ec6a508  paquetes/aula-comunidad-educativa-aumentada-claude-cowork-1.3.2-comunitaria.3.zip
+60bff782bddaa839b048b6709db748fba3e4133d320aa21cfca2c6920953ee13  paquetes/aula-comunidad-educativa-aumentada-generico-1.3.2-comunitaria.3.zip

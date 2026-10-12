@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si citas el sistema, identifica autor, título y versión."
+type: software
+title: "Aula y Comunidad Educativa Aumentada · Edición Comunitaria"
+authors:
+  - family-names: "García Fernández"
+    given-names: "Jesús"
+    website: "https://jesusgarciafernandez.com/"
+version: "1.3.2-comunitaria.3"
+date-released: "2026-10-08"
+abstract: "Sistema Aumentado con IA de uso educativo y profesional gratuito con supervisión humana."

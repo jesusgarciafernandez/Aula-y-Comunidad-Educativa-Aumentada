@@ -1,0 +1,18 @@
+# Archivos auxiliares y de ejecución local
+.DS_Store
+._*
+__pycache__/
+*.pyc
+.env
+.env.*
+build/
+outputs/
+resultados/*
+!resultados/_LEEME.md
+
+# En GitHub se publica únicamente el manual final en PDF. Los Word son internos.
+documentacion/*.docx
+documentacion/*.pdf
+!documentacion/MANUAL_AULA_DESDE_CERO_v2.pdf
+
+# No ignores el conocimiento del centro para considerarlo seguro: nunca lo subas.
