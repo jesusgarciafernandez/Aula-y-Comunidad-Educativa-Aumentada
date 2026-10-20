@@ -8,6 +8,8 @@ Creado por **Jesús García Fernández (JGF)**. Versión `1.3.2-comunitaria.3`.
 
 ![Aula y Comunidad Educativa Aumentada · Edición Comunitaria](.github/social-preview.jpg)
 
+[🎬 Ver el vídeo de presentación de Aula en YouTube](https://youtu.be/dOi5jCPj6rY?si=RkyuFjJ7UssIp0Sd)
+
 Aula te ayuda a preparar actividades, adaptar explicaciones, organizar tutorías y elaborar
 comentarios que ayuden a tu alumnado a aprender.
 
