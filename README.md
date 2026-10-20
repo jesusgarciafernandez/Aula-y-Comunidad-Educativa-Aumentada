@@ -67,22 +67,46 @@ Los 45 minutos describen la actividad solicitada, no un ahorro de tiempo medido.
 
 ## Descargas
 
+### Elige tu complemento
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>Claude Cowork</h3>
+<a href="paquetes/aula-comunidad-educativa-aumentada-1.3.2-comunitaria.3.plugin">
+<img src=".github/aula-claude-cowork.png" alt="Aula y Comunidad Educativa Aumentada en Claude Cowork" width="100%">
+</a>
+<p><a href="paquetes/aula-comunidad-educativa-aumentada-1.3.2-comunitaria.3.plugin">Descargar el plugin para Claude Cowork</a></p>
+</td>
+<td align="center" width="50%">
+<h3>Codex</h3>
+<a href="paquetes/aula-comunidad-educativa-aumentada-1.3.5.zip">
+<img src=".github/aula-codex.png" alt="Aula y Comunidad Educativa Aumentada en Codex" width="100%">
+</a>
+<p><a href="paquetes/aula-comunidad-educativa-aumentada-1.3.5.zip">Descargar el complemento para Codex</a></p>
+</td>
+</tr>
+</table>
+
+El complemento para Codex corresponde a la versión `1.3.5`. Las demás descargas de la edición comunitaria conservan la versión `1.3.2-comunitaria.3`.
+
+### Otras opciones
+
 | Si utilizas | Paquete completo |
 |---|---|
 | ChatGPT Work | [Descargar ZIP](paquetes/aula-comunidad-educativa-aumentada-chatgpt-work-1.3.2-comunitaria.3.zip) |
 | Claude Cowork | [Descargar ZIP](paquetes/aula-comunidad-educativa-aumentada-claude-cowork-1.3.2-comunitaria.3.zip) |
 | Cualquier otro entorno compatible con Markdown y archivos | [Paquete genérico](paquetes/aula-comunidad-educativa-aumentada-generico-1.3.2-comunitaria.3.zip) |
 
-Claude Cowork también dispone del [formato de plugin](paquetes/aula-comunidad-educativa-aumentada-1.3.2-comunitaria.3.plugin).
 Los hashes SHA-256 de los paquetes están en [paquetes/SHA256SUMS.txt](paquetes/SHA256SUMS.txt).
 
-En GitHub, abre el archivo y utiliza su opción de descarga. 
+En GitHub, abre el archivo y utiliza su opción de descarga.
 La descarga del código del repositorio y los ZIP de instalación son cosas distintas:
 para instalar, utiliza el paquete correspondiente.
 
-El repositorio incluye la fuente universal —agentes, workflows, skills, plantillas y documentación—
-y tres paquetes preparados: ChatGPT Work, Claude Cowork y genérico. El plugin de Claude Cowork es una
-presentación alternativa del mismo paquete.
+El repositorio incluye la fuente universal —agentes, workflows, skills, plantillas y documentación—,
+tres paquetes preparados para ChatGPT Work, Claude Cowork y otros entornos compatibles, y el complemento
+para Codex en versión `1.3.5`. El plugin de Claude Cowork es una presentación alternativa del mismo paquete.
 
 La gratuidad corresponde al sistema, no a las cuentas o consumos de las plataformas externas.
 Cada centro debe autorizar la herramienta que utiliza. Consulta los pasos de
