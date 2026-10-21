@@ -121,6 +121,76 @@ Está desarrollado principalmente para Educación Secundaria y comunidad educati
 Incluye otros ejemplos educativos: cada uso necesita adaptación al contexto. Las referencias de España
 no se trasladan automáticamente a otros países.
 
+## Ejemplos de tareas realizadas
+
+Estas capturas muestran ejemplos de resultados preparados con Aula. Son materiales de demostración: antes de utilizarlos, revisa datos, fuentes, contexto y destinatarios.
+
+### Comunicación con una familia
+
+<img src=".github/ejemplos/email-familia-comportamiento-alumno.png" alt="Borrador de email a la familia sobre el comportamiento de un alumno" width="100%">
+
+Borrador de comunicación cuidadosa para abordar una situación de aula y acordar un seguimiento con la familia.
+
+<table>
+<tr><th>Tarea</th><th>Resultado</th><th>Revisión humana</th></tr>
+<tr><td>Comunicar una situación de comportamiento</td><td>Email editable, versión breve y checklist antes de enviar</td><td>Completar hechos, fechas, destinatarios y canal autorizado</td></tr>
+</table>
+
+### Acogida de alumnado que aún no habla español
+
+<img src=".github/ejemplos/ficha-acogida-alumnado-no-habla-espanol.png" alt="Ficha de acogida para alumnado que aún no habla español" width="100%">
+
+Ficha de acogida multilingüe para facilitar el primer día de clase y recoger apoyos iniciales.
+
+<table>
+<tr><th>Tarea</th><th>Resultado</th><th>Revisión humana</th></tr>
+<tr><td>Preparar una acogida lingüística</td><td>Ficha en español, chino simplificado y pinyin con rutinas y ayudas</td><td>Confirmar preferencias lingüísticas, curso y apoyos disponibles</td></tr>
+</table>
+
+### Planificación trimestral editable
+
+<img src=".github/ejemplos/plantilla-excel-planificacion-trimestral.png" alt="Plantilla Excel con planificación trimestral" width="100%">
+
+Plantilla editable para organizar acciones, hitos, responsables, evidencias y seguimiento de un trimestre.
+
+<table>
+<tr><th>Tarea</th><th>Resultado</th><th>Revisión humana</th></tr>
+<tr><td>Planificar un trimestre</td><td>Libro Excel con hojas de inicio, plan, seguimiento, reuniones y catálogo</td><td>Validar calendario, currículo, responsables y fechas oficiales</td></tr>
+</table>
+
+### Distribución del alumnado en el aula
+
+<img src=".github/ejemplos/distribucion-alumnado-aula.png" alt="Distribución del alumnado en el aula" width="100%">
+
+Propuesta visual de distribución de 34 estudiantes en mesas dobles, con alternativas y condicionantes.
+
+<table>
+<tr><th>Tarea</th><th>Resultado</th><th>Revisión humana</th></tr>
+<tr><td>Organizar los asientos</td><td>Plano editable con nombres ficticios, 17 mesas y 10 condicionantes</td><td>Usar datos anonimizados y revisar bienestar, accesibilidad y convivencia</td></tr>
+</table>
+
+### Reunión de tutoría con una familia
+
+<img src=".github/ejemplos/tutoria-con-familia.png" alt="Preparación de una tutoría con una familia" width="100%">
+
+Guion de conversación para una reunión de tutoría con objetivos, preguntas abiertas y acuerdos revisables.
+
+<table>
+<tr><th>Tarea</th><th>Resultado</th><th>Revisión humana</th></tr>
+<tr><td>Preparar una reunión tutoría-familia</td><td>Documento Word con caso ficticio, guion temporalizado y seguimiento</td><td>Adaptar al centro, representantes legales, canal y situación real</td></tr>
+</table>
+
+### Dinámica gamificada de Historia
+
+<img src=".github/ejemplos/mision-lepanto.png" alt="Infografía de la dinámica gamificada Misión Lepanto" width="100%">
+
+Infografía de una dinámica sobre la batalla de Lepanto, con roles, retos, puntos cooperativos y cierre.
+
+<table>
+<tr><th>Tarea</th><th>Resultado</th><th>Revisión humana</th></tr>
+<tr><td>Diseñar una dinámica de Historia</td><td>Diapositiva única con reglas editables y una infografía cuadrada</td><td>Contrastar fuentes y adaptar duración, grupo y objetivos</td></tr>
+</table>
+
 ## El sistema completo
 
 Esta edición conserva **22 agentes, 32 workflows y 31 skills**, las **58 plantillas Markdown numeradas**
