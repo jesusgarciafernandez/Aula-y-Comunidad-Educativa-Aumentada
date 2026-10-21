@@ -60,20 +60,6 @@ El ejemplo es ficticio y no constituye una promesa de resultados.
 
 Para realizar un primer recorrido acompañado, abre [EMPIEZA_AQUI.md](EMPIEZA_AQUI.md).
 
-### Un caso que puedes comprobar
-
-El [caso ficticio de actividad](demo/caso_demo_actividad.md) contiene una petición y los criterios
-de la respuesta esperada. Al probar tu propia petición, revisa:
-
-| Paso | Qué comprobar |
-|---|---|
-| Dar contexto | ¿Curso, objetivo, duración y recursos corresponden a la tarea? |
-| Examinar la propuesta | ¿Las instrucciones y los criterios son comprensibles y realizables? |
-| Adaptarla | ¿Hace falta cambiar el lenguaje, los apoyos o la alternativa sin IA? |
-| Decidir | ¿Qué utilizas, qué corriges y qué descartas antes de llevarlo al aula? |
-
-Los 45 minutos describen la actividad solicitada, no un ahorro de tiempo medido.
-
 ## Descargas
 
 ### Elige tu complemento
